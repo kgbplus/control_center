@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "control_center",
+			"path": "."
+		},
+		{
+			"name": "serial:/COM3",
+			"uri": "serial://com3/"
+		}
+	]
+}
